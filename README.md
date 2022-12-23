@@ -24,6 +24,8 @@ Revision 3 (FINAL - Complete Actuator):
                                                                   
 <img width="673" alt="Screen Shot 2022-12-22 at 11 41 13 PM" src="https://user-images.githubusercontent.com/97418292/209272252-32ec4fbd-fa62-4042-94f1-a1b1b9ce9820.png">
 
+<img width="611" alt="Screen Shot 2022-12-22 at 11 51 27 PM" src="https://user-images.githubusercontent.com/97418292/209273232-72f3b951-c187-4f6f-a9a6-3a2b5ab1c193.png">
+
 Issues:
 
 Efficency - Large reduction results in high friction and stiction in system even with bearings
