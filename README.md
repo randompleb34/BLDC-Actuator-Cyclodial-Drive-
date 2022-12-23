@@ -25,9 +25,14 @@ Revision 3 (FINAL - Complete Actuator):
 <img width="673" alt="Screen Shot 2022-12-22 at 11 41 13 PM" src="https://user-images.githubusercontent.com/97418292/209272252-32ec4fbd-fa62-4042-94f1-a1b1b9ce9820.png">
 
 Issues:
+
 Efficency - Large reduction results in high friction and stiction in system even with bearings
 3D printed tolerance
+
 Height of actuator limits application
+
 Motor does not fit
+
 Fragile motor and controller mount
+
 Bearing fit
