@@ -16,9 +16,9 @@ Revision 1 (Complete Actuator):
 
 Revision 2 (Gearbox Only - No Motor/Controller):
 
-<img width="908" alt="Screen Shot 2022-12-22 at 11 40 55 PM" src="https://user-images.githubusercontent.com/97418292/209272244-24905
+<img width="908" alt="Screen Shot 2022-12-22 at 11 40 55 PM" src="https://user-images.githubusercontent.com/97418292/209272244-249056a7-1852-458b-90bf-2bb5da804dad.png">
 
 Revision 3 (FINAL - Complete Actuator):
                                                                   
 <img width="673" alt="Screen Shot 2022-12-22 at 11 41 13 PM" src="https://user-images.githubusercontent.com/97418292/209272252-32ec4fbd-fa62-4042-94f1-a1b1b9ce9820.png">
-6a7-1852-458b-90bf-2bb5da804dad.png">
+
